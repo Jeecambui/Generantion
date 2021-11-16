@@ -21,7 +21,7 @@ public class testAviao {
 		System.out.println("Portão de Embarque");
 		int portao=ler.nextInt();
 		
-		aviao auto1=new aviao(agencia,nomeCliente,numeroEmbarque,destino,embarque,portao,gasto, "Luis Roberto",35, gasto);
+		aviao auto1=new aviao(agencia,nomeCliente,numeroEmbarque,destino,embarque,portao,gasto, "Luis Roberto",35);
 		auto1.imprimirInfo();
 	}
 

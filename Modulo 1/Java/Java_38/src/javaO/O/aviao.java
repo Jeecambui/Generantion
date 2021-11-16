@@ -11,7 +11,7 @@ public class aviao {
 	private String piloto;
 	private int passageiros;
 	
-	public aviao(String agencia,String nomeCliente,int numeroEmbarque,String destino,String embarque,int portao, Float gastos,String piloto,int passageiro, Float gasto)
+	public aviao(String agencia,String nomeCliente,int numeroEmbarque,String destino,String embarque,int portao, Float gasto,String piloto,int passageiro)
 	{
 		this.agencia=agencia;
 		this.nomeCliente=nomeCliente;
